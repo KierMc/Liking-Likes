@@ -1,0 +1,96 @@
+.btn{
+    width: 50px;
+    height: 30px;
+    margin-left: 40px;
+    margin-right: 20px;
+    background-color: goldenrod;
+    box-shadow: 2px 2px black;
+}
+.nav-cont{
+    display: flex;
+    justify-content: center;
+}
+.nav-bar{
+    background-color: black;
+    color: white;
+    width: 580px;
+    padding-left: 15px;
+}
+.main-cont{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.medium-cont{
+    display: flex;
+}
+.left-cont{
+    flex: 1;
+    border: 2px solid black;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.right-cont{
+    flex: 3;
+}
+.small-cont{
+    border: 2px solid black;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 10px;
+
+}
+.top-cont{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+.like-cont{
+    display: flex;
+    align-items: center;
+}
+p{
+    margin-left: 15px;
+}
+a{
+    color: blue;
+}
+img{
+    height: 60px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .small-cont{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    width: 50px;
+    height: 30px;
+    margin-left: 40px;
+    margin-right: 20px;
+    background-color: goldenrod;
+    box-shadow: 2px 2px black;
+}
+.likecont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
